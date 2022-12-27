@@ -6079,6 +6079,11 @@ connect-pause@^0.1.1:
   resolved "https://registry.yarnpkg.com/connect-pause/-/connect-pause-0.1.1.tgz#b269b2bb82ddb1ac3db5099c0fb582aba99fb37a"
   integrity sha512-a1gSWQBQD73krFXdUEYJom2RTFrWUL3YvXDCRkyv//GVXc79cdW9MngtRuN9ih4FDKBtfJAJId+BbDuX+1rh2w==
 
+connected-next-router@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/connected-next-router/-/connected-next-router-4.2.0.tgz#b5f9b30eeb230b93307be96cf5b9d33352a2f347"
+  integrity sha512-cKEpsn1OPnHOXxlLEcTF1sl6Vj3EQvlfaSNfHUI+RdHwy47wOm6uCK9o4ooF3wOF20gtVMzBMp6k0rRmkhNTIA==
+
 console-browserify@^1.1.0:
   version "1.2.0"
   resolved "https://registry.npmjs.org/console-browserify/-/console-browserify-1.2.0.tgz"
@@ -12932,7 +12937,7 @@ pnp-webpack-plugin@1.6.4:
 
 polished@^4.2.2:
   version "4.2.2"
-  resolved "https://registry.npmjs.org/polished/-/polished-4.2.2.tgz"
+  resolved "https://registry.yarnpkg.com/polished/-/polished-4.2.2.tgz#2529bb7c3198945373c52e34618c8fe7b1aa84d1"
   integrity sha512-Sz2Lkdxz6F2Pgnpi9U5Ng/WdWAUZxmHrNPoVlm3aAemxoy2Qy7LGjQg4uf8qKelDAUW94F4np3iH2YPf2qefcQ==
   dependencies:
     "@babel/runtime" "^7.17.8"
